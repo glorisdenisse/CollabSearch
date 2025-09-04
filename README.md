@@ -35,8 +35,9 @@ CollabSearch implements an **Adaptive Role Playing Prompts (ARPP)** framework th
 8. **RAG Enhancement** — Optional fact-checking with source verification  
 
 ---
+##System Architecture - Concept
 <p align="center">
-  <img src="Images/6.jpg" alt="CollabSearch" width="400"/>
+  <img src="Images/6.jpg" alt="CollabSearch" width="800"/>
 </p>
 
 ## ⚙️ Installation
