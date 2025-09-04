@@ -37,9 +37,9 @@ CollabSearch implements an **Adaptive Role Playing Prompts (ARPP)** framework th
 ---
 
 ## 🏗️ Architecture
-<p align="center">
-  <img src="https://imgur.com/a/8VMH2jn.png" height="50%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
+
+<img src="https://imgur.com/a/8VMH2jn.png" height="50%" width="100%" alt="CollabSeach Architecture"/>
+
 
 ---
 
